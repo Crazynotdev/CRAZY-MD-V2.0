@@ -6,12 +6,12 @@
 > **`Updated To` The V2 Version**
 --- 
 
-<a><img src='https://files.catbox.moe/cfqz6q.jpeg'/></a>
+<a><img src='https://files.catbox.moe/vtutse.jpg'/></a>
 
 ---
 
 <p align="center">
-  <a href="https://github.com/DavidTechInc"><img title="Developer" src="https://img.shields.io/badge/Author-Crazy%20Tech-FF7604.svg?style=big-square&logo=github" /></a>
+  <a href="https://github.com/Crazynotdev"><img title="Developer" src="https://img.shields.io/badge/Author-Crazy%20Tech-FF7604.svg?style=big-square&logo=github" /></a>
 </p>
 
 <div align="center">
@@ -19,17 +19,18 @@
 [![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029VbANsvkIiRp31CEW3C2C)
 </div>
 
- <p align="center"><img src="https://profile-counter.glitch.me/{CRAZY-V2}/count.svg" alt="DavidTechInc :: Visitor's Count" old_src="https://profile-counter.glitch.me/{DavidTechInc}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{CRAZY-V2}/count.svg" alt="Crazynotdev :: Visitor's Count" old_src="https://profile-counter.glitch.me/{Crazynotdev}/count.svg" /></p>
 
 
 <p align="center">
-<a href="https://github.com/DavidTechInc/CRAZY_MD-V2.0"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
+<a href="https://github.com/Crazynotdev/CRAZY_
+  -MD-V2.0"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
   <img src="https://komarev.com/ghpvc/?username=CRAZY-XMD&label=VIEWS&style=square&color=blue" />
 </p>
 </p> 
 
 <p align="center">
-  <a href="https://github.com/DavidTechInc/CRAZY_MD-V2.0"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v3.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/Crazynotdev/CRAZY-MD-V2.0"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v3.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
 
 
@@ -37,7 +38,7 @@
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-  <a href="https://github.com/DavidTechInc/CRAZY_MD-V2.0/fork"><img title="CRAZY-V2" src="https://img.shields.io/badge/FORK-CRAZY V2-h?color=green&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/Crazynotdev/CRAZY-MD-V2.0/fork"><img title="CRAZY-V2" src="https://img.shields.io/badge/FORK-CRAZY V2-h?color=green&style=for-the-badge&logo=stackshare"></a>
 
   
 
