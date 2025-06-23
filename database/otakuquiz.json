@@ -1,0 +1,23 @@
+
+{
+  "players": [],
+  "active": false,
+  "currentQuestion": 0,
+  "questions": [
+    { "q": "🍥 Who is the main character of Naruto?", "a": "naruto" },
+    { "q": "⚔️ What anime features Titans?", "a": "attack on titan" },
+    { "q": "👒 Who is the captain of the Straw Hat Pirates?", "a": "luffy" },
+    { "q": "🔥 Which anime has a hero called 'Deku'?", "a": "my hero academia" },
+    { "q": "👹 Who fights demons with a water sword?", "a": "tanjiro" },
+    { "q": "🌀 Name the nine-tailed beast.", "a": "kurama" },
+    { "q": "🎭 Who wears a hollow mask?", "a": "ichigo" },
+    { "q": "🪄 Magic Guild in Fairy Tail?", "a": "fairy tail" },
+    { "q": "🧬 What is Light Yagami’s notebook called?", "a": "death note" },
+    { "q": "👓 Who is the detective in Detective Conan?", "a": "conan" },
+    { "q": "🐉 Goku is from what anime?", "a": "dragon ball" },
+    { "q": "💎 Who is Nezuko’s brother?", "a": "tanjiro" },
+    { "q": "⚔️ What anime has a swordsman named Zoro?", "a": "one piece" },
+    { "q": "👻 Which anime has spirits and hollows?", "a": "bleach" },
+    { "q": "🔫 Who hunts ghouls in Tokyo?", "a": "kaneki" }
+  ]
+}
